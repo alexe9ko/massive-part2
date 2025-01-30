@@ -44,6 +44,7 @@ public class Main {
             reverseFullName[reverseFullName.length - i - 1] = temp;
         }
         System.out.println(Arrays.toString(reverseFullName));
+        System.out.println();
 
     }
 
